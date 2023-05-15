@@ -1,2 +1,2 @@
 # Projet_Lucas_Daniel
-c notr projé <3
+Le projet "Morpion Miaw" de Daniel et Lucas
